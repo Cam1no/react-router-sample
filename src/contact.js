@@ -4,7 +4,7 @@ import {render} from 'react-dom';
 export default class Contact extends React.Component {
   render() {
     return (
-      <div>contact</div>
+      <div>Hello contact</div>
     );
   }
 }
