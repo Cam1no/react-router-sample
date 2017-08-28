@@ -5,7 +5,7 @@ import Contact from './contact';
 import About from './about';
 import Home from './home';
 import './index.css';
-import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 import registerServiceWorker from './registerServiceWorker';
 
 
